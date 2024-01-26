@@ -11,4 +11,4 @@ I started to interest in programming since about 2015 when i was studying in a c
 
 ## About this Blog
 
-I made this blog to expose my labs (tech things which i have learned), some general subjects in posts, but always related to career in IT. If you want to contact me for some, please send me and email to <b>atdc.codemaster@gmail.com</b> i'll be very excited to respond.
+I made this blog to document and expose my labs (tech things which i have learned), some general subjects in posts, but always related to career in IT. If you want to contact me for some, please send me and email to <b>atdc.codemaster@gmail.com</b> i'll be very excited to respond.
